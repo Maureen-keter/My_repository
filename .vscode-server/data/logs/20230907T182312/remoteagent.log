@@ -1,0 +1,12 @@
+2023-09-07 18:23:13.326 [info] 
+
+
+
+
+2023-09-07 18:23:13.326 [info] Extension host agent started.
+2023-09-07 18:23:13.661 [info] Started initializing default profile extensions in extensions installation folder. file:///home/keter/.vscode-server/extensions
+2023-09-07 18:23:13.699 [info] [127.0.0.1][ed23a4c2][ManagementConnection] New connection established.
+2023-09-07 18:23:13.712 [info] [127.0.0.1][c5f4e263][ExtensionHostConnection] New connection established.
+2023-09-07 18:23:13.803 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/keter/.vscode-server/extensions
+2023-09-07 18:23:23.039 [info] [127.0.0.1][c5f4e263][ExtensionHostConnection] <3820> Launched Extension Host Process.
+2023-09-07 21:41:23.087 [warning] [File Watcher (node.js)] Watcher shutdown because watched path got deleted

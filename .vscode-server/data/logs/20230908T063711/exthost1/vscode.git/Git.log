@@ -1,0 +1,18 @@
+2023-09-08 06:37:24.992 [info] Log level: Info
+2023-09-08 06:37:24.992 [info] Validating found git in: "git"
+2023-09-08 06:37:24.992 [info] Using git "2.42.0" from "git"
+2023-09-08 06:37:24.992 [info] > git rev-parse --show-toplevel [110ms]
+2023-09-08 06:37:25.080 [info] > git rev-parse --show-toplevel [20ms]
+2023-09-08 06:37:25.147 [info] > git rev-parse --git-dir --git-common-dir [18ms]
+2023-09-08 06:37:25.195 [info] Open repository: /home/keter/development/code/phase-0-completing-assignments-learn-lab-gem
+2023-09-08 06:37:25.984 [info] > git config --get commit.template [724ms]
+2023-09-08 06:37:26.766 [info] > git show --textconv :README.md [522ms]
+2023-09-08 06:37:26.768 [info] > git ls-files --stage -- /home/keter/development/code/phase-0-completing-assignments-learn-lab-gem/README.md [241ms]
+2023-09-08 06:37:26.854 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [652ms]
+2023-09-08 06:37:26.933 [info] > git check-ignore -v -z --stdin [233ms]
+2023-09-08 06:37:26.945 [info] > git cat-file -s 36585709e786951af24c5fbd9e835875b7db44b5 [93ms]
+2023-09-08 06:37:26.951 [info] > git status -z -uall [27ms]
+2023-09-08 06:37:27.225 [info] > git config --get commit.template [6ms]
+2023-09-08 06:37:27.385 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/main refs/remotes/main [17ms]
+2023-09-08 06:37:27.536 [info] > git status -z -uall [83ms]
+2023-09-08 07:15:31.678 [info] > git check-ignore -v -z --stdin [44ms]
